@@ -11,7 +11,7 @@ body {
   justify-content: center;
   align-items: flex-start; /* Прижимаем к верху */
   /* background: linear-gradient(135deg, #1e3a8a, #6b21a8); */
-  background: url(../img/bg.png);
+  background: url(../img/bg.webp);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
